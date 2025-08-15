@@ -1,4 +1,4 @@
-# Add-GroupToChat PowerShell Scripts
+# Add-GroupToChat PowerShell Script
 
 ## Overview
 This repository contains PowerShell scripts for managing Microsoft Teams group chats and Microsoft 365 (O365) group memberships using Microsoft Graph API. The primary script, `Add-Group2Chat.ps1`, allows you to add all members of an M365 group to a Teams group chat with app-only authentication, without requiring external modules.
