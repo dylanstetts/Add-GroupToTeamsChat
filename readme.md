@@ -61,7 +61,7 @@ This repository contains PowerShell scripts for managing Microsoft Teams group c
 MIT License
 
 ## Author
-[Your Name]
+Dylan 
 
 ---
 
